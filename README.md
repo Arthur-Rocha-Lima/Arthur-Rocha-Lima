@@ -4,7 +4,7 @@
 - I have been working on Nava Technology as junior developer :desktop_computer:	
 - I'm studying a lot of Java, using frameworks like Spring Boot and Angular to improve my applications :memo:
 
-## Connect whith me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/arthur-rocha-lima-688328176/" target="_blank">
 <img align="center" alt="arthur-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width:100%;">
 </a>
