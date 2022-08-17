@@ -1,7 +1,6 @@
 # Hi, I’m Arthur Rocha Lima 
 - I live in Sao Paulo, Brazil :brazil: 
 - I study Computer Science in college :nerd_face:	
-- I have been working on Nava Technology as junior developer :desktop_computer:	
 - I'm studying a lot of Java, using frameworks like Spring Boot and Angular to improve my applications :memo:
 
 ## Connect with me:
