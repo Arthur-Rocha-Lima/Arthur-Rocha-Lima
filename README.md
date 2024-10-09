@@ -1,7 +1,7 @@
 # Hi, I’m Arthur Rocha Lima 
-- I live in Sao Paulo, Brazil :brazil: 
-- I study Computer Science in college :nerd_face:	
-- I'm studying a lot of Java, using frameworks like Spring Boot and Angular to improve my applications :memo:
+- I live in São Paulo, Brasil :brazil: 
+- I'm studying Software Engineering in USP :nerd_face:	
+- I'm studying and focusing in software architecture patterns to improve my projects :memo:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/arthur-rocha-lima-688328176/" target="_blank">
